@@ -38,5 +38,8 @@ This project analyzes **Diwali sales data** to understand customer purchasing be
    - **Gender-based purchase distribution**  
    - **Zone-wise sales contribution**  
 📈 **Line Charts**:  
-   - Monthly sales trends  
+   - Monthly sales trends
+---
+🔗 **Connect with me**: [LinkedIn](https://www.linkedin.com/in/mamata-sawant-87330b2a6)
+
 
